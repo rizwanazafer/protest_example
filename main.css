@@ -1,0 +1,15 @@
+main.css
+
+/* This is a CSS file */
+/* Tell all the font on the page to be Georgia, serif,
+*/
+* {
+	font-family: Georgia, serif;}
+
+/* Tell all the strong text to be gray/
+em {
+	color: gray}
+/* Tell all the strong text to be gray*/
+strong {
+	color: gray;}
+
