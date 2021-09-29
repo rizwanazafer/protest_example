@@ -1,13 +1,13 @@
 main.css
 
 /* This is a CSS file */
-/* Tell all the font on the page to be Georgia, serif,
-*/
+/* Tell all the font on the page to be Georgia,
+With back of serif*/
 * {
-	font-family: Georgia, serif;}
+	font-family: "Georgia", serif;}
 
 /* Tell all the strong text to be gray/
-em {
+strong {
 	color: gray}
 /* Tell all the strong text to be gray*/
 strong {
