@@ -1,15 +1,17 @@
 main.css
 
-/* This is a CSS file */
-/* Tell all the font on the page to be Georgia,
-With back of serif*/
 * {
-	font-family: "Georgia", serif;}
+	font-family:  Georgia, serif;}
 
-/* Tell all the strong text to be gray/
-strong {
-	color: gray}
-/* Tell all the strong text to be gray*/
-strong {
-	color: gray;}
+body {
+	font-family: Georgia, serif;
+}	
 
+h1 {
+	text-transform: uppercase;}	
+
+figcaption {
+	color: gray;}	
+
+h6  {
+	color:  gray;}
